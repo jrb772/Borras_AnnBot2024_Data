@@ -1,0 +1,664 @@
+Site;Competition;Species;Indv;Sample;Height;N_flowers;DiamCavity;LongLab;WidthLab;DepthLab;N_Fruits;N_Pollinia;FruitSet;PolliniaSet;SeedGood;SeedTotal;SeedSet
+UIB;No;parviflora;1;UIB_parviflora1;22.5;5;4;10;4;9;5;10;1;1;452;486;0.930041152
+UIB;No;parviflora;2;UIB_parviflora2;18;4;3.5;9.5;5;11;4;8;1;1;354;412;0.859223301
+UIB;No;parviflora;3;UIB_parviflora3;10.5;3;3.5;7.5;4.5;8.5;3;6;1;1;288;362;0.79558011
+UIB;No;parviflora;4;UIB_parviflora4;14;3;3;8.5;4;9;3;6;1;1;526;570;0.922807018
+UIB;No;parviflora;5;UIB_parviflora5;13;3;3;6;3;6;3;4;1;0.666666667;310;326;0.950920245
+UIB;No;parviflora;6;UIB_parviflora6;13.5;2;3;8;3.5;8;2;2;1;0.5;353;390;0.905128205
+UIB;No;parviflora;7;UIB_parviflora7;18;4;4;9.5;5.5;9;4;6;1;0.75;425;508;0.836614173
+UIB;No;parviflora;8;UIB_parviflora8;12;3;4;9;4.5;7.5;3;6;1;1;390;476;0.819327731
+UIB;No;parviflora;9;UIB_parviflora9;19.5;6;3.5;10;4.5;8.5;5;6;0.833333333;0.5;791;797;0.992471769
+UIB;No;parviflora;10;UIB_parviflora10;22.5;5;3;10.5;5;9.5;5;10;1;1;443;458;0.967248908
+UIB;No;parviflora;11;UIB_parviflora11;10.5;3;3.5;8;4;8.5;3;6;1;1;291;406;0.716748768
+UIB;No;parviflora;12;UIB_parviflora12;12.5;3;4;9.5;4;8.5;3;4;1;0.666666667;229;441;0.519274376
+UIB;No;parviflora;13;UIB_parviflora13;12;3;3.5;9.5;4;8;3;6;1;1;320;453;0.706401766
+UIB;No;parviflora;14;UIB_parviflora14;15;2;3;8;4;8.5;2;4;1;1;433;580;0.746551724
+UIB;No;parviflora;15;UIB_parviflora15;9.5;2;3.5;7.5;4;8;2;4;1;1;333;387;0.860465116
+UIB;No;parviflora;16;UIB_parviflora16;9.5;1;3.5;7;3;7.5;1;2;1;1;118;450;0.262222222
+UIB;No;parviflora;17;UIB_parviflora17;14;1;3.5;8.5;4;7.5;1;2;1;1;398;461;0.863340564
+UIB;No;parviflora;18;UIB_parviflora18;19;3;4;7;4;7;3;6;1;1;144;161;0.894409938
+UIB;No;parviflora;19;UIB_parviflora19;19.5;2;3;7;4;7.5;2;4;1;1;154;254;0.606299213
+UIB;No;parviflora;20;UIB_parviflora20;11;4;4;9;4.5;8;4;8;1;1;419;453;0.924944812
+UIB;No;parviflora;21;UIB_parviflora21;14;3;3;8;4;9;3;6;1;1;402;432;0.930555556
+UIB;No;parviflora;22;UIB_parviflora22;20;4;4;8;4;7.5;4;8;1;1;348;381;0.913385827
+UIB;No;parviflora;23;UIB_parviflora23;14.5;2;3.5;9;4;8;;;;;;;
+UIB;No;parviflora;24;UIB_parviflora24;16;5;3;6;4;7.5;;;;;;;
+UIB;No;parviflora;25;UIB_parviflora25;12.5;2;3;6;2;8;2;4;1;1;811;811;1
+UIB;No;parviflora;26;UIB_parviflora26;31;8;4;6;2;8;8;6;1;0.375;399;603;0.661691542
+Son Veri;No;parviflora;1;Son Veri_parviflora1;11.5;2;3.6;7.2;2.5;7;2;4;1;1;789;1160;0.680172414
+Son Veri;No;parviflora;2;Son Veri_parviflora2;8.6;2;3.4;7.1;2.7;6.4;2;4;1;1;411;419;0.980906921
+Son Veri;No;parviflora;3;Son Veri_parviflora3;10;3;3.7;6.8;3.6;6.9;;;;;;;
+Son Veri;No;parviflora;4;Son Veri_parviflora4;19.5;2;4;6.6;3.1;9.3;;;;;;;
+Son Veri;No;parviflora;5;Son Veri_parviflora5;11.4;2;2.8;5.7;2.7;5.3;1;2;0.5;0.5;195;233;0.836909871
+Son Veri;No;parviflora;6;Son Veri_parviflora6;12.7;2;3.6;7.1;2.8;6.8;;;;;;;
+Son Veri;No;parviflora;7;Son Veri_parviflora7;12.8;2;3.3;6.2;2.8;7.3;2;4;1;1;454;1104;0.411231884
+Son Veri;No;parviflora;8;Son Veri_parviflora8;13.1;2;3.2;5;2.4;7.5;;;;;;;
+Son Veri;No;parviflora;11;Son Veri_parviflora11;8.5;2;2.8;6;2.6;6.3;2;4;1;1;89;262;0.339694656
+Son Veri;No;parviflora;12;Son Veri_parviflora12;7.1;2;3.1;6.6;1.7;6.5;;;;;;;
+Son Veri;No;parviflora;13;Son Veri_parviflora13;14.5;2;3.4;6.4;2.5;5.9;2;4;1;1;326;375;0.869333333
+Son Veri;No;parviflora;14;Son Veri_parviflora14;6.8;2;2.4;6.6;2.9;7.3;0;4;0;1;;;
+Son Veri;No;parviflora;15;Son Veri_parviflora15;14.5;2;3.1;6.4;2.7;6.4;2;4;1;1;370;408;0.906862745
+Son Veri;No;parviflora;16;Son Veri_parviflora16;13.2;2;3.4;6.5;3.1;6.8;2;4;1;1;117;431;0.271461717
+Son Veri;No;parviflora;17;Son Veri_parviflora17;11.2;3;3.2;6.4;3;7.2;;;;;;;
+Son Veri;No;parviflora;18;Son Veri_parviflora18;9.5;2;3;6;3;7;1;4;0.5;1;271;1078;0.251391466
+Son Veri;No;parviflora;19;Son Veri_parviflora19;7.3;2;3.1;4.4;2.3;4.1;0;4;0;1;;;
+Son Veri;No;parviflora;20;Son Veri_parviflora20;11.3;2;3;8;3.1;5.7;2;4;1;1;393;1180;0.333050847
+Son Veri;No;parviflora;21;Son Veri_parviflora21;8.7;2;3.6;7;2.8;5.9;1;4;0.5;1;;;
+Son Veri;No;parviflora;22;Son Veri_parviflora22;9.5;2;2.3;7.6;4.4;5.2;2;4;1;1;188;289;0.650519031
+Son Veri;No;parviflora;23;Son Veri_parviflora23;12.9;2;3.5;6.8;2.7;5.4;2;4;1;1;875;1178;0.74278438
+Son Veri;No;parviflora;24;Son Veri_parviflora24;14;5;2.4;5.6;3.2;6.4;5;10;1;1;202;230;0.87826087
+Son Veri;No;parviflora;25;Son Veri_parviflora25;12.7;2;4.1;5.9;4.7;5.7;2;4;1;1;200;363;0.550964187
+Son Veri;No;parviflora;26;Son Veri_parviflora26;10.1;2;5.2;7.1;2.6;5.2;2;4;1;1;290;294;0.986394558
+Son Veri;No;parviflora;27;Son Veri_parviflora27;15.7;3;3;6.7;3.9;5.4;;;;;;;
+Son Veri;No;parviflora;28;Son Veri_parviflora28;14.3;3;3.8;6.7;3.4;6.2;3;6;1;1;144;275;0.523636364
+Son Veri;No;parviflora;29;Son Veri_parviflora29;14;4;2.9;6;2.9;4.9;4;8;1;1;417;446;0.934977578
+Son Veri;No;parviflora;30;Son Veri_parviflora30;12.5;2;2.9;8.1;1.9;6;2;4;1;1;271;281;0.964412811
+Son Real;No;lingua;1;Son Real_lingua1;14;3;4.5;12.5;7;10.5;0;6;0;1;;;
+Son Real;No;lingua;2;Son Real_lingua2;14.2;2;4.5;16;8;12.5;0;4;0;1;;;
+Son Real;No;lingua;3;Son Real_lingua3;10.5;3;4.5;11.5;7.5;11;0;2;0;0.333333333;;;
+Son Real;No;lingua;4;Son Real_lingua4;14;2;4.5;15;8;9.5;0;2;0;0.5;;;
+Son Real;No;lingua;5;Son Real_lingua5;11.2;2;6;15;7;15;0;2;0;0.5;;;
+Son Real;No;lingua;6;Son Real_lingua6;14;4;5.5;12.5;8;14;0;8;0;1;;;
+Son Real;No;lingua;7;Son Real_lingua7;18.2;4;5;7;5;12.5;0;6;0;0.75;;;
+Son Real;No;lingua;8;Son Real_lingua8;13.2;2;4.5;13;6.5;12.5;0;4;0;1;;;
+Son Real;No;lingua;9;Son Real_lingua9;15;2;5;13;7;14;0;4;0;1;;;
+Son Real;No;lingua;10;Son Real_lingua10;13.2;2;4.5;12.5;7.5;12;0;4;0;1;;;
+Son Real;No;lingua;11;Son Real_lingua11;16.5;3;4;12.5;8;11;0;6;0;1;;;
+Son Real;No;lingua;12;Son Real_lingua12;13.5;4;5;13;6;12;0;8;0;1;;;
+Son Real;No;lingua;13;Son Real_lingua13;14.2;3;4;13;6;12;0;;0;0;;;
+Son Real;No;lingua;14;Son Real_lingua14;13;2;4;6;4;11;0;2;0;0.5;;;
+Son Real;No;lingua;15;Son Real_lingua15;15;2;4.5;13;6.5;11;0;4;0;1;;;
+Son Real;No;lingua;16;Son Real_lingua16;12;2;4;8;4.5;11;0;4;0;1;;;
+Son Real;No;lingua;17;Son Real_lingua17;15;2;4.5;11;6;9;0;2;0;0.5;;;
+Son Real;No;lingua;18;Son Real_lingua18;17;3;4.5;11;5.5;12;0;6;0;1;;;
+Son Real;No;lingua;19;Son Real_lingua19;12.5;3;4;12.6;4.6;12;0;6;0;1;;;
+Son Real;No;lingua;20;Son Real_lingua20;11.5;3;6;17;8;13;0;6;0;1;;;
+Son Real;No;lingua;21;Son Real_lingua21;15;3;6.5;14;7;12;0;6;0;1;;;
+Son Real;No;lingua;22;Son Real_lingua22;21;3;2.5;11.5;4.5;10.5;;;;;;;
+Son Real;No;lingua;23;Son Real_lingua23;18.5;4;3.5;12;6;10.5;0;8;0;1;;;
+Son Real;No;lingua;24;Son Real_lingua24;17.2;2;5;14;6;12;0;4;0;1;;;
+Son Real;No;lingua;25;Son Real_lingua25;16;2;5;11;6.5;11.5;0;4;0;1;;;
+Son Real;No;lingua;26;Son Real_lingua26;18;2;5;12;6;14;;;;;;;
+Son Real;No;lingua;27;Son Real_lingua27;18.5;3;5;12;6.5;12;0;6;0;1;;;
+Son Real;No;lingua;28;Son Real_lingua28;16;3;5;11;6;12.5;0;6;0;1;;;
+Son Real;No;lingua;29;Son Real_lingua29;12.5;2;5;11;6.5;12;0;4;0;1;;;
+Son Real;No;lingua;30;Son Real_lingua30;11.9;2;6;11.5;7.5;12.5;0;4;0;1;;;
+Son Gual;Yes;lingua;1;Son Gual_lingua1;23.5;5;5;16;8;13;1;8;0.2;0.8;464;1046;0.443594646
+Son Gual;Yes;lingua;2;Son Gual_lingua2;25.5;4;5;18;7;13;0;8;0;1;10;1000;0.01
+Son Gual;Yes;lingua;3;Son Gual_lingua3;24;4;6;15;7.5;14;0;8;0;1;563;1013;0.555774926
+Son Gual;Yes;lingua;4;Son Gual_lingua4;18.5;3;6;17;7;12;0;5;0;0.833333333;;;
+Son Gual;Yes;lingua;5;Son Gual_lingua5;22;3;4.5;16;7;13;0;4;0;0.666666667;;;
+Son Gual;Yes;lingua;6;Son Gual_lingua6;17;2;4;18;4.5;14;0;;0;0;;;
+Son Gual;Yes;lingua;7;Son Gual_lingua7;18;3;4;17;5;12;0;6;0;1;;;
+Son Gual;Yes;lingua;8;Son Gual_lingua8;18;3;4;16;4;12;0;6;0;1;;;
+Son Gual;Yes;lingua;9;Son Gual_lingua9;21;2;4;17;5;13;0;4;0;1;;;
+Son Gual;Yes;lingua;10;Son Gual_lingua10;24;3;4;20;6;14;0;6;0;1;;;
+Son Gual;Yes;lingua;11;Son Gual_lingua11;24.5;4;4;17;6;13;0;8;0;1;;;
+Son Gual;Yes;lingua;12;Son Gual_lingua12;16;4;5;14;6;13;0;8;0;1;;;
+Son Gual;Yes;lingua;13;Son Gual_lingua13;16;3;5;12.5;6;12.5;0;6;0;1;;;
+Son Gual;Yes;lingua;14;Son Gual_lingua14;10;2;4;15;10;12.5;;;;;;;
+Son Gual;Yes;lingua;15;Son Gual_lingua15;13.5;3;4.5;15;7.5;13;0;6;0;1;;;
+Son Gual;Yes;lingua;16;Son Gual_lingua16;19.5;3;4.5;16.5;7;15.5;0;5;0;0.833333333;;;
+Son Gual;Yes;lingua;17;Son Gual_lingua17;17.7;3;4;14;5;14;0;6;0;1;;;
+Son Gual;Yes;lingua;18;Son Gual_lingua18;18.3;4;5;13.5;9;12;0;8;0;1;;;
+Son Gual;Yes;lingua;19;Son Gual_lingua19;17.6;4;5;14.5;7;14;0;4;0;0.5;;;
+Son Gual;Yes;lingua;20;Son Gual_lingua20;13.9;2;5.5;12;7;13;0;4;0;1;;;
+Son Gual;Yes;lingua;21;Son Gual_lingua21;14;3;5;13.5;7.5;14;0;6;0;1;;;
+Son Gual;Yes;lingua;22;Son Gual_lingua22;11;1;5;12;6.5;13;0;2;0;1;;;
+Son Gual;Yes;lingua;23;Son Gual_lingua23;14.2;2;6;16;9;16;;;;;;;
+Son Gual;Yes;lingua;24;Son Gual_lingua24;13;3;4.5;16;7;13;0;6;0;1;;;
+Son Gual;Yes;lingua;25;Son Gual_lingua25;12.3;2;5;18;9;13;0;4;0;1;;;
+Son Gual;Yes;lingua;26;Son Gual_lingua26;18;4;4;19;7;12;0;8;0;1;;;
+Son Gual;Yes;lingua;27;Son Gual_lingua27;12;2;4.5;16;7;11;;;;;;;
+Son Gual;Yes;lingua;28;Son Gual_lingua28;15.5;4;5;21;8.5;13.5;0;8;0;1;;;
+Son Gual;Yes;lingua;29;Son Gual_lingua29;22;4;6;19;7;13.5;0;8;0;1;;;
+Son Gual;Yes;lingua;30;Son Gual_lingua30;20.3;2;4.5;14.5;7;;0;4;0;1;;;
+Son Gual;Yes;parviflora;1;Son Gual_parviflora1;11.7;4;3;8.5;4.5;10;3;4;0.75;0.5;431;481;0.896049896
+Son Gual;Yes;parviflora;2;Son Gual_parviflora2;20;4;2;10;3;10;4;4;1;0.5;981;1155;0.849350649
+Son Gual;Yes;parviflora;3;Son Gual_parviflora3;23.5;7;3;10;3;8.5;7;14;1;1;703;1027;0.684518014
+Son Gual;Yes;parviflora;4;Son Gual_parviflora4;26.5;10;3;10;4;10;10;20;1;1;228;347;0.657060519
+Son Gual;Yes;parviflora;5;Son Gual_parviflora5;14.5;3;3;10;3;9;1;2;0.333333333;0.333333333;882;1169;0.754491018
+Son Gual;Yes;parviflora;6;Son Gual_parviflora6;8.5;2;3;9;3;7;2;4;1;1;820;1195;0.686192469
+Son Gual;Yes;parviflora;7;Son Gual_parviflora7;18;4;2.5;8.5;4;9;4;8;1;1;359;398;0.90201005
+Son Gual;Yes;parviflora;8;Son Gual_parviflora8;20;6;3;12;3.5;14.5;6;12;1;1;758;1062;0.713747646
+Son Gual;Yes;parviflora;9;Son Gual_parviflora9;20.3;5;2.5;10;4;9.5;5;10;1;1;827;1346;0.614413076
+Son Gual;Yes;parviflora;10;Son Gual_parviflora10;20;6;3.5;12;5;10;6;12;1;1;219;277;0.790613718
+Son Gual;Yes;parviflora;11;Son Gual_parviflora11;23;4;2.5;9;4;8;4;8;1;1;421;476;0.884453782
+Son Gual;Yes;parviflora;12;Son Gual_parviflora12;20;5;3;10;5;10;5;8;1;0.8;241;524;0.459923664
+Son Gual;Yes;parviflora;13;Son Gual_parviflora13;22;5;3;9;4;8;5;8;1;0.8;301;326;0.923312883
+Son Gual;Yes;parviflora;14;Son Gual_parviflora14;8;2;2;7;3;6.5;;;;;;;
+Son Gual;Yes;parviflora;15;Son Gual_parviflora15;13.4;3;2;10;4;7.5;3;6;1;1;455;480;0.947916667
+Son Gual;Yes;parviflora;16;Son Gual_parviflora16;12.3;2;2.5;7;3;8.5;2;4;1;1;956;1050;0.91047619
+Son Gual;Yes;parviflora;17;Son Gual_parviflora17;11.3;2;3;8.5;3.5;8.5;2;4;1;1;473;494;0.957489879
+Son Gual;Yes;parviflora;18;Son Gual_parviflora18;10.9;3;2.5;6.5;3.5;10;;;;;;;
+Son Gual;Yes;parviflora;19;Son Gual_parviflora19;9.6;3;2;7;3;8.5;;;;;;;
+Son Gual;Yes;parviflora;20;Son Gual_parviflora20;8.5;2;2;8;3;7.5;;;;;;;
+Son Gual;Yes;parviflora;21;Son Gual_parviflora21;11.3;3;2;8.5;3.5;9;3;6;1;1;336;376;0.893617021
+Son Gual;Yes;parviflora;22;Son Gual_parviflora22;8.5;2;3;7;3.5;8;;;;;;;
+Son Gual;Yes;parviflora;23;Son Gual_parviflora23;11.5;2;2.5;9;3;8;2;4;1;1;529;577;0.916811092
+Son Gual;Yes;parviflora;24;Son Gual_parviflora24;9.5;2;2;8.5;3;7.5;;;;;;;
+Son Gual;Yes;parviflora;25;Son Gual_parviflora25;10.6;2;2.5;6;2.5;7.5;2;4;1;1;645;1111;0.580558056
+Son Gual;Yes;parviflora;26;Son Gual_parviflora26;9.8;2;2.5;8;3.5;7.5;;;;;;;
+Son Gual;Yes;parviflora;27;Son Gual_parviflora27;14.3;3;2.5;7.5;3;8;;;;;;;
+Son Gual;Yes;parviflora;28;Son Gual_parviflora28;10.4;3;3;8.5;3.5;8.5;;;;;824;1214;0.678747941
+Son Gual;Yes;parviflora;29;Son Gual_parviflora29;11.8;3;3;9.5;3;9;3;6;1;1;135;323;0.417956656
+Son Gual;Yes;parviflora;30;Son Gual_parviflora30;15;3;3;9.5;4;8;3;4;1;0.666666667;826;1094;0.755027422
+Son Doblons;Yes;lingua;1;Son Doblons_lingua1;19.8;6;4;11;5;15;0;12;0;1;;;
+Son Doblons;Yes;lingua;2;Son Doblons_lingua2;15.5;3;4;15;5;15;0;6;0;1;;;
+Son Doblons;Yes;lingua;3;Son Doblons_lingua3;17.4;4;2.5;13;5;12;;;;;;;
+Son Doblons;Yes;lingua;4;Son Doblons_lingua4;16.4;3;4;12;5;14;;;;;;;
+Son Doblons;Yes;lingua;5;Son Doblons_lingua5;15.5;3;2;12.5;5.5;12.5;0;6;0;1;;;
+Son Doblons;Yes;lingua;6;Son Doblons_lingua6;15.6;2;3;12;5;11;0;4;0;1;;;
+Son Doblons;Yes;lingua;7;Son Doblons_lingua7;15.4;3;4;14;6;14;0;6;0;1;;;
+Son Doblons;Yes;lingua;8;Son Doblons_lingua8;20.3;3;4;11;5;11;0;6;0;1;;;
+Son Doblons;Yes;lingua;9;Son Doblons_lingua9;15.5;2;4;11;4;11;;;;;;;
+Son Doblons;Yes;lingua;10;Son Doblons_lingua10;15;2;3.5;12;5.5;10.5;0;4;0;1;;;
+Son Doblons;Yes;lingua;11;Son Doblons_lingua11;13.8;2;3.5;10.5;5.5;12;;;;;;;
+Son Doblons;Yes;lingua;12;Son Doblons_lingua12;13.2;3;5;13;10;12;0;6;0;1;;;
+Son Doblons;Yes;lingua;13;Son Doblons_lingua13;12.3;2;4;13.5;7;11.5;0;4;0;1;;;
+Son Doblons;Yes;lingua;14;Son Doblons_lingua14;12.2;2;6;15;9;17;;;;;;;
+Son Doblons;Yes;lingua;15;Son Doblons_lingua15;10.5;2;4.5;12.8;7.5;11.5;;;;;;;
+Son Doblons;Yes;lingua;16;Son Doblons_lingua16;15;2;4;14;8;14;;;;;;;
+Son Doblons;Yes;lingua;17;Son Doblons_lingua17;9.6;2;3;12;6;10;;;;;;;
+Son Doblons;Yes;lingua;18;Son Doblons_lingua18;15.3;3;8;11;8;15;0;6;0;1;;;
+Son Doblons;Yes;lingua;19;Son Doblons_lingua19;14.4;2;3;10.5;5.5;10.5;;;;;;;
+Son Doblons;Yes;lingua;20;Son Doblons_lingua20;9.4;2;4;12;7;11;0;2;0;0.5;;;
+Son Doblons;Yes;lingua;21;Son Doblons_lingua21;10.5;2;4;13;7.5;10;;;;;;;
+Son Doblons;Yes;lingua;22;Son Doblons_lingua22;14.5;3;4;12;7;14;0;4;0;0.666666667;;;
+Son Doblons;Yes;lingua;23;Son Doblons_lingua23;12.2;2;4.5;15;8.5;11;;;;;;;
+Son Doblons;Yes;lingua;24;Son Doblons_lingua24;9.8;1;5;11;6;9;;;;;;;
+Son Doblons;Yes;lingua;25;Son Doblons_lingua25;9.9;2;2.5;10;5.5;10;;;;;;;
+Son Doblons;Yes;lingua;26;Son Doblons_lingua26;9.5;2;5;11;7;12;;;;;;;
+Son Doblons;Yes;lingua;27;Son Doblons_lingua27;8.4;2;3;9;6;9.5;;;;;;;
+Son Doblons;Yes;lingua;28;Son Doblons_lingua28;9.5;2;4;13;7;17;;;;;;;
+Son Doblons;Yes;lingua;29;Son Doblons_lingua29;10.1;3;2.5;10;4.5;10;0;6;0;1;;;
+Son Doblons;Yes;lingua;30;Son Doblons_lingua30;15.5;2;4;10;5;9;0;4;0;1;;;
+Son Doblons;Yes;parviflora;1;Son Doblons_parviflora1;17.5;7;3.5;12.5;4;15;0;12;0;0.857142857;;;
+Son Doblons;Yes;parviflora;2;Son Doblons_parviflora2;20;8;3;13;4;10.8;0;14;0;0.875;;;
+Son Doblons;Yes;parviflora;3;Son Doblons_parviflora3;13.1;5;4;13;4;13;0;8;0;0.8;;;
+Son Doblons;Yes;parviflora;4;Son Doblons_parviflora4;15.6;4;4;13.8;4;15;0;8;0;1;;;
+Son Doblons;Yes;parviflora;5;Son Doblons_parviflora5;18.5;5;4;14;4.5;9.5;0;8;0;0.8;;;
+Son Doblons;Yes;parviflora;6;Son Doblons_parviflora6;17.3;7;3;9;4;8;0;;0;0;;;
+Son Doblons;Yes;parviflora;7;Son Doblons_parviflora7;20.5;6;3;8.5;4;10;0;;0;0;;;
+Son Doblons;Yes;parviflora;8;Son Doblons_parviflora8;15;5;3;7.5;5;9;0;2;0;0.2;;;
+Son Doblons;Yes;parviflora;9;Son Doblons_parviflora9;19;6;4;8;5;9;0;12;0;1;;;
+Son Doblons;Yes;parviflora;10;Son Doblons_parviflora10;20;4;4;10;3;8.5;4;4;1;0.5;644;1104;0.583333333
+Son Doblons;Yes;parviflora;11;Son Doblons_parviflora11;16.4;4;3;8;4;9;0;8;0;1;;;
+Son Doblons;Yes;parviflora;12;Son Doblons_parviflora12;22.2;5;3;8;5;10;0;10;0;1;;;
+Son Doblons;Yes;parviflora;13;Son Doblons_parviflora13;20.5;7;3;7;4;9;0;12;0;0.857142857;;;
+Son Doblons;Yes;parviflora;14;Son Doblons_parviflora14;18.3;6;3;8;4;10;0;;0;0;;;
+Son Doblons;Yes;parviflora;15;Son Doblons_parviflora15;20.5;7;3;6;4;9;0;14;0;1;;;
+Son Doblons;Yes;parviflora;16;Son Doblons_parviflora16;22;8;4;8;4;10;0;16;0;1;;;
+Son Doblons;Yes;parviflora;17;Son Doblons_parviflora17;21;6;3;8;4;10;0;12;0;1;;;
+Son Doblons;Yes;parviflora;18;Son Doblons_parviflora18;15.4;6;3;9;5;10;0;10;0;0.833333333;;;
+Son Doblons;Yes;parviflora;19;Son Doblons_parviflora19;18.5;3;3;8;3;8;;;;;;;
+Son Doblons;Yes;parviflora;20;Son Doblons_parviflora20;16.6;5;3;8;3;9;0;10;0;1;;;
+Son Doblons;Yes;parviflora;21;Son Doblons_parviflora21;20;6;3;9;3;8;0;12;0;1;;;
+Son Doblons;Yes;parviflora;22;Son Doblons_parviflora22;17;5;3;7.5;4;8.5;0;6;0;0.6;;;
+Son Doblons;Yes;parviflora;23;Son Doblons_parviflora23;19.1;6;3;7.5;4.5;9.5;;;;;;;
+Son Doblons;Yes;parviflora;24;Son Doblons_parviflora24;10.1;2;2;6;3;6.5;0;4;0;1;;;
+Son Doblons;Yes;parviflora;25;Son Doblons_parviflora25;19.3;4;2;7.5;3.5;8;;;;;;;
+Son Doblons;Yes;parviflora;26;Son Doblons_parviflora26;18.2;5;1.5;6;2.5;8;0;;0;0;;;
+Son Doblons;Yes;parviflora;27;Son Doblons_parviflora27;20.6;6;2;7;3;7;;;;;;;
+Son Doblons;Yes;parviflora;28;Son Doblons_parviflora28;15.5;4;2;8.5;3.5;7.5;0;2;0;0.25;;;
+Son Doblons;Yes;parviflora;29;Son Doblons_parviflora29;18;3;3;8.5;4;9;0;2;0;0.333333333;;;
+Son Doblons;Yes;parviflora;30;Son Doblons_parviflora30;8.6;3;2.5;8.5;3;7;1;6;0.333333333;1;592;1211;0.488852188
+Son Doblons;Yes;parviflora;10_1;Son Doblons_parviflora10_1;;;;;;;;;;;678;1105;0.613574661
+Son Doblons;Yes;parviflora;10_2;Son Doblons_parviflora10_2;;;;;;;;;;;481;1174;0.409710392
+Son Doblons;Yes;parviflora;10_3;Son Doblons_parviflora10_3;;;;;;;;;;;797;1200;0.664166667
+son Bosc;No;parviflora;1;son Bosc_parviflora1;16.5;4;3.1;8.5;3.2;9.5;4;4;1;0.5;;;
+son Bosc;No;parviflora;2;son Bosc_parviflora2;15.8;3;2.9;8.2;3.6;7;3;4;1;0.666666667;718;1124;0.638790036
+son Bosc;No;parviflora;3;son Bosc_parviflora3;12;2;2.5;7.7;3.2;6.9;2;4;1;1;978;1208;0.809602649
+son Bosc;No;parviflora;4;son Bosc_parviflora4;15.7;3;3.3;7.9;3.9;7.5;3;6;1;1;;;
+son Bosc;No;parviflora;5;son Bosc_parviflora5;21.1;4;2.9;6.8;2.6;8.5;4;8;1;1;;;
+son Bosc;No;parviflora;6;son Bosc_parviflora6;12.5;2;2.5;6;3.2;6.8;2;2;1;0.5;784;1093;0.717291857
+son Bosc;No;parviflora;7;son Bosc_parviflora7;10.7;2;2.2;4.4;2.4;6.3;2;4;1;1;1020;1072;0.951492537
+son Bosc;No;parviflora;8;son Bosc_parviflora8;11.9;2;3;4.4;1.6;6.3;2;4;1;1;;;
+son Bosc;No;parviflora;9;son Bosc_parviflora9;14;4;2.6;6.1;3.4;7.6;4;8;1;1;;;
+son Bosc;No;parviflora;10;son Bosc_parviflora10;12;3;2.2;8.7;2.7;8.6;3;6;1;1;;;
+son Bosc;No;parviflora;11;son Bosc_parviflora11;13;3;2.3;3.8;2;5.9;3;6;1;1;;;
+son Bosc;No;parviflora;12;son Bosc_parviflora12;23;7;2.8;5.6;3.1;6.4;7;14;1;1;;;
+son Bosc;No;parviflora;13;son Bosc_parviflora13;13.4;3;2.5;7.9;3.3;7.4;2;4;0.666666667;0.666666667;1079;1168;0.92380137
+son Bosc;No;parviflora;14;son Bosc_parviflora14;11.2;3;2.9;8.1;3.3;8.8;2;4;0.666666667;0.666666667;952;1205;0.790041494
+son Bosc;No;parviflora;15;son Bosc_parviflora15;9;2;2.8;7.1;2.9;8.7;2;4;1;1;;;
+son Bosc;No;parviflora;16;son Bosc_parviflora16;20;7;3;5.3;2.5;5.9;7;14;1;1;855;1155;0.74025974
+son Bosc;No;parviflora;17;son Bosc_parviflora17;14;4;3;7;2.9;7.9;4;8;1;1;808;1044;0.77394636
+son Bosc;No;parviflora;18;son Bosc_parviflora18;10.7;2;3.4;7.3;3.4;8.1;2;4;1;1;;;
+son Bosc;No;parviflora;19;son Bosc_parviflora19;10.4;2;2.8;5.6;2.3;6.5;2;4;1;1;;;
+son Bosc;No;parviflora;20;son Bosc_parviflora20;15;4;2.9;8.4;2.5;8.1;4;8;1;1;;;
+son Bosc;No;parviflora;21;son Bosc_parviflora21;15.5;4;3.2;6.5;2.8;8.5;3;8;0.75;1;1002;1104;0.907608696
+son Bosc;No;parviflora;22;son Bosc_parviflora22;14.4;4;3.3;7.1;3.2;8.1;4;8;1;1;;;
+son Bosc;No;parviflora;23;son Bosc_parviflora23;9.5;3;3;7;3;7;3;6;1;1;;;
+son Bosc;No;parviflora;24;son Bosc_parviflora24;17.5;4;4;6;3;8;4;8;1;1;;;
+son Bosc;No;parviflora;25;son Bosc_parviflora25;15.5;2;3;6;3;6;2;4;1;1;714;1080;0.661111111
+son Bosc;No;parviflora;26;son Bosc_parviflora26;18;2;4;6;2;7;2;4;1;1;789;1177;0.670348343
+son Bosc;No;parviflora;27;son Bosc_parviflora27;16.5;3;3;6;3;7;3;6;1;1;;;
+son Bosc;No;parviflora;28;son Bosc_parviflora28;18.5;3;6;8;3;7;3;6;1;1;957;1192;0.802852349
+son Bosc;No;parviflora;29;son Bosc_parviflora29;20.5;3;4;6;3;7;3;6;1;1;933;1111;0.839783978
+son Bosc;No;parviflora;30;son Bosc_parviflora30;17.5;4;4;8;4;7;4;8;1;1;988;1161;0.850990525
+son Bosc;No;parviflora;25_2;son Bosc_parviflora25_2;;;;;;;;;;;862;1077;0.800371402
+Sa Torre;No;parviflora;1;Sa Torre_parviflora1;20.2;3;2.7;6.1;2.6;5.9;2;4;0.666666667;0.666666667;224;231;0.96969697
+Sa Torre;No;parviflora;2;Sa Torre_parviflora2;18;4;2.8;6.7;2.6;6.1;4;8;1;1;552;593;0.930860034
+Sa Torre;No;parviflora;3;Sa Torre_parviflora3;23.5;5;4;5.6;2.5;6.8;5;10;1;1;557;606;0.919141914
+Sa Torre;No;parviflora;4;Sa Torre_parviflora4;17;3;3.2;4.4;2.5;4.4;3;6;1;1;407;518;0.785714286
+Sa Torre;No;parviflora;5;Sa Torre_parviflora5;17.6;3;3.6;6.3;2.3;5.8;3;6;1;1;300;327;0.917431193
+Sa Torre;No;parviflora;6;Sa Torre_parviflora6;11.1;3;3.7;6;2.6;5.8;3;6;1;1;479;585;0.818803419
+Sa Torre;No;parviflora;7;Sa Torre_parviflora7;10.1;2;3.7;5.3;1.7;5.5;2;4;1;1;715;726;0.984848485
+Sa Torre;No;parviflora;8;Sa Torre_parviflora8;12.8;3;3.2;5.2;2.3;5.3;2;4;0.666666667;0.666666667;233;303;0.768976898
+Sa Torre;No;parviflora;9;Sa Torre_parviflora9;13;1;3.7;5.8;3.3;5.2;1;2;1;1;59;559;0.105545617
+Sa Torre;No;parviflora;10;Sa Torre_parviflora10;12.1;3;3.1;4.8;3.1;3.9;3;6;1;1;255;340;0.75
+Sa Torre;No;parviflora;11;Sa Torre_parviflora11;11.8;2;3;4.5;2;2.5;2;4;1;1;462;478;0.966527197
+Sa Torre;No;parviflora;12;Sa Torre_parviflora12;12.4;2;3.1;6.2;3.5;5.3;2;4;1;1;304;324;0.938271605
+Sa Torre;No;parviflora;13;Sa Torre_parviflora13;7.2;3;4;5.4;2.4;4.7;2;4;0.666666667;0.666666667;0;500;0
+Sa Torre;No;parviflora;14;Sa Torre_parviflora14;10.7;1;3.2;5.3;3;6.3;1;2;1;1;549;579;0.948186528
+Sa Torre;No;parviflora;15;Sa Torre_parviflora15;9.5;3;3.1;5.8;3.1;4.9;3;6;1;1;298;337;0.884272997
+Sa Torre;No;parviflora;16;Sa Torre_parviflora16;12;3;3.7;4.8;2.8;5;3;6;1;1;174;343;0.50728863
+Sa Torre;No;parviflora;17;Sa Torre_parviflora17;13;3;2.9;6.5;3.9;7.3;3;6;1;1;308;343;0.897959184
+Sa Torre;No;parviflora;18;Sa Torre_parviflora18;8;2;2.8;2.4;1.8;6;1;4;0.5;1;88;329;0.267477204
+Sa Torre;No;parviflora;19;Sa Torre_parviflora19;12.1;2;3.7;6.4;2.8;5.8;2;4;1;1;667;777;0.858429858
+Sa Torre;No;parviflora;20;Sa Torre_parviflora20;14.4;2;2.8;4.7;1.8;6.6;2;4;1;1;3;500;0.006
+Sa Torre;No;parviflora;21;Sa Torre_parviflora21;9;2;4.3;5.7;3.4;6.1;2;4;1;1;203;211;0.962085308
+Sa Torre;No;parviflora;22;Sa Torre_parviflora22;14.1;3;3.2;6.9;3.3;7.9;3;6;1;1;399;491;0.812627291
+Sa Torre;No;parviflora;23;Sa Torre_parviflora23;11;3;3.4;6.3;3.7;6.1;2;6;0.666666667;1;440;465;0.946236559
+Sa Torre;No;parviflora;24;Sa Torre_parviflora24;7.9;3;3.1;7.8;2.5;7.1;3;6;1;1;239;302;0.791390728
+Sa Torre;No;parviflora;25;Sa Torre_parviflora25;7.8;1;3;4.9;2.6;4.9;1;2;1;1;465;491;0.947046843
+Sa Torre;No;parviflora;26;Sa Torre_parviflora26;6.5;2;2.8;4.6;2.6;5.2;1;4;0.5;1;199;269;0.739776952
+Sa Torre;No;parviflora;27;Sa Torre_parviflora27;7.4;3;2.7;6;2.4;7.1;2;6;0.666666667;1;539;603;0.893864013
+Sa Torre;No;parviflora;28;Sa Torre_parviflora28;9;2;3.7;5.5;2.8;6.2;2;4;1;1;579;588;0.984693878
+Sa Torre;No;parviflora;29;Sa Torre_parviflora29;13;2;2.9;5.3;3.1;6.3;;;;;;;
+Sa Torre;No;parviflora;30;Sa Torre_parviflora30;20.5;2;4.1;8;3.7;6.9;2;4;1;1;429;542;0.791512915
+Puigpunyent;Yes;lingua;1;Puigpunyent_lingua1;16.2;4;5;19;9;12;0;8;0;1;;;
+Puigpunyent;Yes;lingua;2;Puigpunyent_lingua2;10.5;3;4;16;6;10;0;6;0;1;;;
+Puigpunyent;Yes;lingua;3;Puigpunyent_lingua3;14.5;3;6;19;10;12;0;6;0;1;;;
+Puigpunyent;Yes;lingua;4;Puigpunyent_lingua4;16;3;5;20;6;11;0;6;0;1;;;
+Puigpunyent;Yes;lingua;5;Puigpunyent_lingua5;14.5;3;4;11;7;12;0;6;0;1;;;
+Puigpunyent;Yes;lingua;6;Puigpunyent_lingua6;8.5;2;6;16;8;13;0;4;0;1;;;
+Puigpunyent;Yes;lingua;7;Puigpunyent_lingua7;9;2;4;14;7;12;0;4;0;1;;;
+Puigpunyent;Yes;lingua;8;Puigpunyent_lingua8;7.5;2;5;12;6;11;0;4;0;1;;;
+Puigpunyent;Yes;lingua;9;Puigpunyent_lingua9;12;2;7;16;6;11;0;4;0;1;;;
+Puigpunyent;Yes;lingua;10;Puigpunyent_lingua10;14.7;2;5;15;7;11;0;4;0;1;;;
+Puigpunyent;Yes;lingua;11;Puigpunyent_lingua11;23;5;5;14;7;13;0;10;0;1;;;
+Puigpunyent;Yes;lingua;12;Puigpunyent_lingua12;11.2;2;5;13;6;11;0;4;0;1;;;
+Puigpunyent;Yes;lingua;13;Puigpunyent_lingua13;18.5;4;5;19;9;13;0;6;0;0.75;;;
+Puigpunyent;Yes;lingua;14;Puigpunyent_lingua14;16.5;3;5;20;9;13;0;4;0;0.666666667;;;
+Puigpunyent;Yes;lingua;15;Puigpunyent_lingua15;15.5;4;7;15;13;15;0;8;0;1;;;
+Puigpunyent;Yes;lingua;16;Puigpunyent_lingua16;17.2;4;6;17;9;11;1;4;0.25;0.5;;;
+Puigpunyent;Yes;lingua;17;Puigpunyent_lingua17;15.5;4;6;13;6;11;0;4;0;0.5;;;
+Puigpunyent;Yes;lingua;18;Puigpunyent_lingua18;19;4;6;14;9;11;0;8;0;1;;;
+Puigpunyent;Yes;lingua;19;Puigpunyent_lingua19;13.5;2;5;14;7;12;0;4;0;1;;;
+Puigpunyent;Yes;lingua;20;Puigpunyent_lingua20;23.5;4;5;16;8;13;0;8;0;1;;;
+Puigpunyent;Yes;lingua;21;Puigpunyent_lingua21;16.5;3;5;16;6;14;0;6;0;1;;;
+Puigpunyent;Yes;lingua;22;Puigpunyent_lingua22;17;4;5;16;6;12;0;8;0;1;;;
+Puigpunyent;Yes;lingua;23;Puigpunyent_lingua23;15;3;5;15;6;11;0;6;0;1;;;
+Puigpunyent;Yes;lingua;24;Puigpunyent_lingua24;9.5;2;4;11;6;11;0;2;0;0.5;;;
+Puigpunyent;Yes;lingua;25;Puigpunyent_lingua25;19;1;5;14;6;11;0;2;0;1;;;
+Puigpunyent;Yes;lingua;26;Puigpunyent_lingua26;20;2;5;14;7;10;0;4;0;1;;;
+Puigpunyent;Yes;lingua;27;Puigpunyent_lingua27;12.2;2;5;15;6;12;0;4;0;1;;;
+Puigpunyent;Yes;lingua;28;Puigpunyent_lingua28;15.5;3;5;16;6;12;0;6;0;1;;;
+Puigpunyent;Yes;lingua;29;Puigpunyent_lingua29;19.5;4;6;16;7;13;0;8;0;1;;;
+Puigpunyent;Yes;lingua;30;Puigpunyent_lingua30;14.5;2;6;19;9;12;0;4;0;1;;;
+Puigpunyent;Yes;parviflora;1;Puigpunyent_parviflora1;11.6;4;3;8;3;8;4;8;1;1;552;1004;0.549800797
+Puigpunyent;Yes;parviflora;2;Puigpunyent_parviflora2;14.1;6;3;8;3.5;9;6;12;1;1;229;382;0.59947644
+Puigpunyent;Yes;parviflora;3;Puigpunyent_parviflora3;10.2;3;3;6;3;9;3;6;1;1;126;157;0.802547771
+Puigpunyent;Yes;parviflora;4;Puigpunyent_parviflora4;16.5;6;3;9.5;3;9;4;6;0.666666667;0.5;124;203;0.610837438
+Puigpunyent;Yes;parviflora;5;Puigpunyent_parviflora5;16;5;3;8;3;10;;;;;209;254;0.822834646
+Puigpunyent;Yes;parviflora;6;Puigpunyent_parviflora6;14.6;5;3;10;3.5;9.5;5;10;1;1;256;341;0.750733138
+Puigpunyent;Yes;parviflora;7;Puigpunyent_parviflora7;11.1;4;3;8;3;9;4;8;1;1;299;370;0.808108108
+Puigpunyent;Yes;parviflora;8;Puigpunyent_parviflora8;11;4;3;6.5;3;9;4;6;1;0.75;414;460;0.9
+Puigpunyent;Yes;parviflora;9;Puigpunyent_parviflora9;11.6;5;3;7;3;7;;;;;;;
+Puigpunyent;Yes;parviflora;10;Puigpunyent_parviflora10;11.7;3;2.5;8;3;9;2;6;0.666666667;1;262;290;0.903448276
+Puigpunyent;Yes;parviflora;11;Puigpunyent_parviflora11;17;4;3;8.5;3;8;;;;;;;
+Puigpunyent;Yes;parviflora;12;Puigpunyent_parviflora12;16;4;3.5;7;3;8;;;;;;;
+Puigpunyent;Yes;parviflora;13;Puigpunyent_parviflora13;11;3;3;6;4;7;3;6;1;1;264;342;0.771929825
+Puigpunyent;Yes;parviflora;14;Puigpunyent_parviflora14;15.5;4;4;8;3;5;3;8;0.75;1;237;403;0.58808933
+Puigpunyent;Yes;parviflora;15;Puigpunyent_parviflora15;8.7;3;2;7;3;8;3;4;1;0.666666667;;;
+Puigpunyent;Yes;parviflora;16;Puigpunyent_parviflora16;20;5;3.5;8;3;10;4;6;0.8;0.6;180;325;0.553846154
+Puigpunyent;Yes;parviflora;17;Puigpunyent_parviflora17;11;4;3;5;2;8.5;4;6;1;0.75;201;277;0.725631769
+Puigpunyent;Yes;parviflora;18;Puigpunyent_parviflora18;19;6;3;7.5;3;8.5;6;10;1;0.833333333;193;321;0.601246106
+Puigpunyent;Yes;parviflora;19;Puigpunyent_parviflora19;15.5;4;2;7;4;8;;;;;;;
+Puigpunyent;Yes;parviflora;20;Puigpunyent_parviflora20;17.5;5;3;8;3;8;;;;;206;321;0.641744548
+Puigpunyent;Yes;parviflora;21;Puigpunyent_parviflora21;11;3;2;6;3;6;2;2;0.666666667;0.333333333;229;293;0.781569966
+Puigpunyent;Yes;parviflora;22;Puigpunyent_parviflora22;17;4;4;5;3;6;2;8;0.5;1;272;347;0.783861671
+Puigpunyent;Yes;parviflora;23;Puigpunyent_parviflora23;13;3;3;6;3;6;2;4;0.666666667;0.666666667;258;312;0.826923077
+Puigpunyent;Yes;parviflora;24;Puigpunyent_parviflora24;11.5;4;2;6.5;2.5;8;4;8;1;1;309;375;0.824
+Puigpunyent;Yes;parviflora;25;Puigpunyent_parviflora25;16.8;4;2.5;6.5;2.5;8.5;4;8;1;1;237;394;0.601522843
+Puigpunyent;Yes;parviflora;26;Puigpunyent_parviflora26;17.5;5;3;10;3;8;5;8;1;0.8;352;513;0.686159844
+Puigpunyent;Yes;parviflora;27;Puigpunyent_parviflora27;17.5;4;4;7;3;7;4;6;1;0.75;172;283;0.607773852
+Puigpunyent;Yes;parviflora;28;Puigpunyent_parviflora28;17;4;4;7;4;8;3;6;0.75;0.75;250;311;0.803858521
+Puigpunyent;Yes;parviflora;29;Puigpunyent_parviflora29;16;4;3;8;4;6;;;;;;;
+Puigpunyent;Yes;parviflora;30;Puigpunyent_parviflora30;23.5;7;3;9;4;10;;;;;;;
+Puigpunyent;Yes;parviflora;10_1;Puigpunyent_parviflora10_1;;;;;;;;;;;145;253;0.57312253
+Llubi2;No;parviflora;1;Llubi2_parviflora1;17;3;2.7;7.1;2.8;6.8;;;;;;;
+Llubi2;No;parviflora;2;Llubi2_parviflora2;16.5;2;3.6;7.5;3.4;8.4;2;4;1;1;;;
+Llubi2;No;parviflora;3;Llubi2_parviflora3;8.5;2;2.6;6;3;5.4;1;4;0.5;1;487;948;0.51371308
+Llubi2;No;parviflora;4;Llubi2_parviflora4;17;3;2.9;6.1;3.4;6.8;2;6;0.666666667;1;;;
+Llubi2;No;parviflora;5;Llubi2_parviflora5;19.5;3;2.4;5.7;3.2;7.9;3;6;1;1;354;364;0.972527473
+Llubi2;No;parviflora;6;Llubi2_parviflora6;16.5;2;3.8;5.5;3.4;7.4;2;4;1;1;;;
+Llubi2;No;parviflora;7;Llubi2_parviflora7;18;3;2;7.4;3.4;6.4;3;6;1;1;247;268;0.921641791
+Llubi2;No;parviflora;8;Llubi2_parviflora8;16.5;2;3.8;5.6;3.1;7.1;2;4;1;1;449;460;0.976086957
+Llubi2;No;parviflora;9;Llubi2_parviflora9;22;2;3.6;4.8;3.2;6.3;2;4;1;1;;;
+Llubi2;No;parviflora;10;Llubi2_parviflora10;25;4;3.7;7.7;4.2;6.1;4;8;1;1;332;520;0.638461538
+Llubi2;No;parviflora;11;Llubi2_parviflora11;13;2;3;5.2;3.3;5.9;2;4;1;1;139;203;0.684729064
+Llubi2;No;parviflora;12;Llubi2_parviflora12;29;4;4.1;9.3;3.3;6.3;4;8;1;1;;;
+Llubi2;No;parviflora;13;Llubi2_parviflora13;23;3;3.3;8.2;3.5;7.3;3;6;1;1;;;
+Llubi2;No;parviflora;14;Llubi2_parviflora14;10;2;1.8;5.6;3.2;6.5;1;4;0.5;1;911;975;0.934358974
+Llubi2;No;parviflora;15;Llubi2_parviflora15;16;2;3.3;6.1;3.6;6.1;2;4;1;1;;;
+Llubi2;No;parviflora;16;Llubi2_parviflora16;19;3;1.8;4.7;2.3;6.5;2;6;0.666666667;1;;;
+Llubi2;No;parviflora;17;Llubi2_parviflora17;25;5;2.6;6.5;3.6;8.7;5;10;1;1;;;
+Llubi2;No;parviflora;18;Llubi2_parviflora18;22;3;3.4;7.5;3.1;7.9;3;6;1;1;287;351;0.817663818
+Llubi2;No;parviflora;19;Llubi2_parviflora19;21.5;3;4;7.5;3.8;8.4;3;2;1;0.333333333;300;304;0.986842105
+Llubi2;No;parviflora;20;Llubi2_parviflora20;25;4;3.9;6.4;2.9;7.9;4;8;1;1;804;924;0.87012987
+Llubi2;No;parviflora;21;Llubi2_parviflora21;31;4;3.4;6.3;2.8;7.3;3;6;0.75;0.75;;;
+Llubi2;No;parviflora;22;Llubi2_parviflora22;32;4;2.7;8.1;3.2;5.6;4;8;1;1;;;
+Llubi2;No;parviflora;23;Llubi2_parviflora23;31;4;3.2;7.4;3.4;9;4;8;1;1;337;404;0.834158416
+Llubi2;No;parviflora;24;Llubi2_parviflora24;12;2;3.1;6.8;3.2;6;2;4;1;1;;;
+Llubi2;No;parviflora;25;Llubi2_parviflora25;23;3;3.3;6.9;3.5;7.5;3;6;1;1;202;299;0.675585284
+Llubi2;No;parviflora;26;Llubi2_parviflora26;12;1;3;6.9;3;5.2;1;2;1;1;;;
+Llubi2;No;parviflora;27;Llubi2_parviflora27;16;3;3.1;6.7;2.7;7.4;3;6;1;1;351;369;0.951219512
+Llubi2;No;parviflora;28;Llubi2_parviflora28;25;3;3.8;8;3.6;8;3;6;1;1;395;407;0.970515971
+Llubi2;No;parviflora;29;Llubi2_parviflora29;12.5;2;3.2;7;2.2;6.8;2;2;1;0.5;853;975;0.874871795
+Llubi2;No;parviflora;30;Llubi2_parviflora30;16.5;3;3.9;6.7;3.2;7.3;0;6;0;1;;;
+Llubi;Yes;lingua;1;Llubi_lingua1;20.7;3;4.2;14.1;6.7;10.8;0;6;0;1;2;1000;0.002
+Llubi;Yes;lingua;2;Llubi_lingua2;14.5;2;4.6;13;6.8;9.2;0;4;0;1;0;1000;0
+Llubi;Yes;lingua;3;Llubi_lingua3;16.5;2;4.5;14.2;6.8;10;0;4;0;1;0;1000;0
+Llubi;Yes;lingua;4;Llubi_lingua4;23;4;4.5;14.6;6.3;11.2;;;;;0;1000;0
+Llubi;Yes;lingua;5;Llubi_lingua5;14;3;4.2;11.7;6.6;10.8;0;6;0;1;0;1000;0
+Llubi;Yes;lingua;6;Llubi_lingua6;19;3;4.4;12.6;6.7;11.2;0;6;0;1;0;1000;0
+Llubi;Yes;lingua;7;Llubi_lingua7;23;3;4.4;15.2;8.5;12;0;6;0;1;;;
+Llubi;Yes;lingua;8;Llubi_lingua8;22;2;4.5;15.6;8;11.5;0;4;0;1;;;
+Llubi;Yes;lingua;9;Llubi_lingua9;28;2;4.2;15.5;6;12.1;0;4;0;1;;;
+Llubi;Yes;lingua;10;Llubi_lingua10;23;2;4;14.4;5.6;12;0;4;0;1;;;
+Llubi;Yes;lingua;11;Llubi_lingua11;19;2;3.8;15.2;5.3;11;0;4;0;1;;;
+Llubi;Yes;lingua;12;Llubi_lingua12;25;2;3.7;16;6.6;12.3;0;4;0;1;;;
+Llubi;Yes;lingua;13;Llubi_lingua13;30;4;5;15.7;6.2;11.5;0;8;0;1;;;
+Llubi;Yes;lingua;14;Llubi_lingua14;23.5;3;4.5;13;6;11;0;6;0;1;;;
+Llubi;Yes;lingua;15;Llubi_lingua15;27.5;3;4.5;15;7.5;11;0;6;0;1;;;
+Llubi;Yes;lingua;16;Llubi_lingua16;19;2;5;13.5;9;11;;;;;;;
+Llubi;Yes;lingua;17;Llubi_lingua17;23;3;4;10;6.4;11.5;0;6;0;1;;;
+Llubi;Yes;lingua;18;Llubi_lingua18;27;4;5;13;7.5;11.5;0;2;0;0.25;;;
+Llubi;Yes;lingua;19;Llubi_lingua19;25;5;4;14;6.5;12.5;1;8;0.2;0.8;;;
+Llubi;Yes;lingua;20;Llubi_lingua20;20.5;4;4.5;12.5;6.5;11;0;8;0;1;;;
+Llubi;Yes;lingua;21;Llubi_lingua21;20;4;4;12.5;6;11;;;;;;;
+Llubi;Yes;lingua;22;Llubi_lingua22;18.5;3;3.8;11;6;11;;;;;;;
+Llubi;Yes;lingua;23;Llubi_lingua23;14.5;3;5.5;16;8;13;;;;;;;
+Llubi;Yes;lingua;24;Llubi_lingua24;13;2;5.5;15;8.5;12.5;;;;;;;
+Llubi;Yes;lingua;25;Llubi_lingua25;20;4;4.8;10.3;5.1;11.4;;;;;;;
+Llubi;Yes;lingua;26;Llubi_lingua26;10;2;9.1;16.5;6.9;11.8;;;;;;;
+Llubi;Yes;lingua;27;Llubi_lingua27;26.5;2;4.2;11.4;5.4;12.2;0;4;0;1;;;
+Llubi;Yes;lingua;28;Llubi_lingua28;24;3;4.2;13.1;6.5;12;0;6;0;1;;;
+Llubi;Yes;lingua;29;Llubi_lingua29;22.5;8;5;16.5;5.7;12;0;16;0;1;;;
+Llubi;Yes;lingua;30;Llubi_lingua30;13;2;3.3;11.7;5;11;0;4;0;1;;;
+Llubi;Yes;parviflora;1;Llubi_parviflora1;11.8;4;2.6;8;4;7.6;3;0;0.75;0;389;395;0.984810127
+Llubi;Yes;parviflora;2;Llubi_parviflora2;19;4;2.4;9.7;3.5;7.9;4;2;1;0.25;260;338;0.769230769
+Llubi;Yes;parviflora;3;Llubi_parviflora3;12.5;4;2.7;8.5;3.6;8.3;4;8;1;1;;;
+Llubi;Yes;parviflora;4;Llubi_parviflora4;16;3;3;8.6;3.1;8.3;1;2;0.333333333;0.333333333;337;405;0.832098765
+Llubi;Yes;parviflora;5;Llubi_parviflora5;19;2;2.3;8;4;7.7;2;4;1;1;;;
+Llubi;Yes;parviflora;6;Llubi_parviflora6;21;3;2.4;9.3;4;8.5;2;6;0.666666667;1;;;
+Llubi;Yes;parviflora;7;Llubi_parviflora7;22;3;2.8;9;3.7;7.8;2;6;0.666666667;1;;;
+Llubi;Yes;parviflora;8;Llubi_parviflora8;35;3;2.4;11;4.2;8.2;3;6;1;1;225;370;0.608108108
+Llubi;Yes;parviflora;9;Llubi_parviflora9;28;4;2.5;9.2;3.5;8.4;4;4;1;0.5;173;424;0.408018868
+Llubi;Yes;parviflora;10;Llubi_parviflora10;28;3;2.3;9.4;3;8.5;3;2;1;0.333333333;211;344;0.613372093
+Llubi;Yes;parviflora;11;Llubi_parviflora11;22;3;2.2;8.3;3;8.2;3;6;1;1;308;314;0.98089172
+Llubi;Yes;parviflora;12;Llubi_parviflora12;12;2;2.1;9;3.2;8;2;4;1;1;;;
+Llubi;Yes;parviflora;13;Llubi_parviflora13;16;3;2.5;8.4;2.8;8.8;;;;;;;
+Llubi;Yes;parviflora;14;Llubi_parviflora14;27;4;2.7;10;3.5;9;4;4;1;0.5;250;349;0.716332378
+Llubi;Yes;parviflora;15;Llubi_parviflora15;23;3;2.7;7.8;3;9.3;3;6;1;1;278;312;0.891025641
+Llubi;Yes;parviflora;16;Llubi_parviflora16;18.5;3;3;8;5;9.8;1;0;0.333333333;0;;;
+Llubi;Yes;parviflora;17;Llubi_parviflora17;25.5;6;3;10;4.5;9.5;3;2;0.5;0.166666667;239;354;0.675141243
+Llubi;Yes;parviflora;18;Llubi_parviflora18;18;3;2.5;9.5;3;8.5;3;6;1;1;;;
+Llubi;Yes;parviflora;19;Llubi_parviflora19;17;3;2;8.8;3.5;9;3;2;1;0.333333333;254;284;0.894366197
+Llubi;Yes;parviflora;20;Llubi_parviflora20;17;2;2.3;6.1;2.5;8.1;2;4;1;1;181;355;0.509859155
+Llubi;Yes;parviflora;21;Llubi_parviflora21;17;3;2.2;8.2;2.9;8.9;3;6;1;1;202;239;0.845188285
+Llubi;Yes;parviflora;22;Llubi_parviflora22;16;4;2.6;7.8;3.7;7.5;4;8;1;1;;;
+Llubi;Yes;parviflora;23;Llubi_parviflora23;19.5;4;2.4;8;3;9;3;6;0.75;0.75;204;207;0.985507246
+Llubi;Yes;parviflora;24;Llubi_parviflora24;24;3;2.1;8.7;3.7;9;3;6;1;1;;;
+Llubi;Yes;parviflora;25;Llubi_parviflora25;24.2;5;2.7;10.8;2.5;9.7;5;10;1;1;227;239;0.949790795
+Llubi;Yes;parviflora;26;Llubi_parviflora26;19;2;2.8;5.5;2.8;7;2;0;1;0;276;292;0.945205479
+Llubi;Yes;parviflora;27;Llubi_parviflora27;17.2;2;3.3;7.5;3;8.5;;;;;;;
+Llubi;Yes;parviflora;28;Llubi_parviflora28;25;3;3;8;3;8;3;6;1;1;294;299;0.983277592
+Llubi;Yes;parviflora;29;Llubi_parviflora29;21;3;2.5;9;3;9.6;3;6;1;1;209;266;0.785714286
+Llubi;Yes;parviflora;30;Llubi_parviflora30;27;4;2.8;8.5;3;9;3;8;0.75;1;415;498;0.833333333
+Caubet;Yes;lingua;1;Caubet_lingua1;22.5;3;5.05;15.6;6.5;12.78;0;6;0;1;267;1026;0.260233918
+Caubet;Yes;lingua;2;Caubet_lingua2;20.3;2;4.8;13.3;7.4;10.3;0;4;0;1;0;1000;0
+Caubet;Yes;lingua;3;Caubet_lingua3;20.5;3;4.78;13.75;7.2;13.13;0;6;0;1;0;1000;0
+Caubet;Yes;lingua;4;Caubet_lingua4;18.5;3;4.5;14.9;6.1;13.5;0;6;0;1;5;1000;0.005
+Caubet;Yes;lingua;5;Caubet_lingua5;33;4;4.5;13.94;7.48;13.35;0;8;0;1;;;
+Caubet;Yes;lingua;6;Caubet_lingua6;24.5;3;3.3;13.3;6.1;12.7;0;6;0;1;142;1000;0.142
+Caubet;Yes;lingua;7;Caubet_lingua7;25.6;3;4.37;11.8;7.19;12.34;0;6;0;1;;;
+Caubet;Yes;lingua;8;Caubet_lingua8;27;3;6.6;20;8.3;15;0;6;0;1;0;1000;0
+Caubet;Yes;lingua;9;Caubet_lingua9;20;2;5.71;18.5;8.11;14.98;0;4;0;1;0;1000;0
+Caubet;Yes;lingua;10;Caubet_lingua10;23.5;2;6.7;18.5;7.3;14.2;0;4;0;1;;;
+Caubet;Yes;lingua;11;Caubet_lingua11;29;3;6.08;21.5;9.4;14.82;0;6;0;1;0;1000;0
+Caubet;Yes;lingua;12;Caubet_lingua12;17.5;2;5;10.5;6.2;11.3;0;2;0;0.5;0;1000;0
+Caubet;Yes;lingua;13;Caubet_lingua13;26;3;3.95;14.08;7.13;12.94;0;6;0;1;1;1000;0.001
+Caubet;Yes;lingua;14;Caubet_lingua14;24.5;5;4.9;11.9;5.6;12.9;0;10;0;1;;;
+Caubet;Yes;lingua;15;Caubet_lingua15;17.5;1;4.5;12.24;5.72;12.12;0;2;0;1;0;1000;0
+Caubet;Yes;lingua;16;Caubet_lingua16;21.5;4;6.3;12.6;6;13.4;0;8;0;1;;;
+Caubet;Yes;lingua;17;Caubet_lingua17;30;5;5.6;13.7;4.5;12.6;0;10;0;1;;;
+Caubet;Yes;lingua;18;Caubet_lingua18;32;5;5.3;13.4;6.8;11.9;0;8;0;0.8;;;
+Caubet;Yes;lingua;19;Caubet_lingua19;23.5;4;6.2;13.5;5.2;12.3;0;8;0;1;;;
+Caubet;Yes;lingua;20;Caubet_lingua20;18;2;4.7;11.9;6.2;12.1;0;4;0;1;;;
+Caubet;Yes;lingua;21;Caubet_lingua21;19.5;3;4.7;8.3;4.8;10.1;0;6;0;1;;;
+Caubet;Yes;lingua;22;Caubet_lingua22;13.5;2;5.8;14.1;8;13.2;;;;;;;
+Caubet;Yes;lingua;23;Caubet_lingua23;17.5;2;5.7;12.1;6.5;12.2;0;4;0;1;;;
+Caubet;Yes;lingua;24;Caubet_lingua24;24.5;3;4.6;11.3;3.1;9.4;0;6;0;1;;;
+Caubet;Yes;lingua;25;Caubet_lingua25;19.5;4;4.4;10.4;5.1;12.3;0;8;0;1;;;
+Caubet;Yes;lingua;26;Caubet_lingua26;29.5;4;4.9;11.1;6;14.8;0;8;0;1;;;
+Caubet;Yes;lingua;27;Caubet_lingua27;28;4;6;12.3;5.4;12.1;0;8;0;1;;;
+Caubet;Yes;lingua;28;Caubet_lingua28;33;4;4.7;13.5;4.1;15.5;0;8;0;1;;;
+Caubet;Yes;lingua;29;Caubet_lingua29;26.5;3;6.2;12.5;6.5;15.4;0;6;0;1;;;
+Caubet;Yes;lingua;30;Caubet_lingua30;26;3;5.1;10.7;5.5;12.5;0;6;0;1;;;
+Caubet;Yes;parviflora;1;Caubet_parviflora1;14;2;2.5;9.05;4.05;8.11;2;4;1;1;688;1153;0.59670425
+Caubet;Yes;parviflora;2;Caubet_parviflora2;20.5;3;3.3;6.8;3.9;7.9;3;6;1;1;960;1195;0.80334728
+Caubet;Yes;parviflora;3;Caubet_parviflora3;24;4;3.19;9.13;14.78;9.81;4;8;1;1;724;1071;0.676003735
+Caubet;Yes;parviflora;4;Caubet_parviflora4;10;2;2.8;7.1;3.9;8.9;2;4;1;1;844;1179;0.715860899
+Caubet;Yes;parviflora;5;Caubet_parviflora5;15.5;3;2.63;8.35;3.69;8.81;3;4;1;0.666666667;667;1169;0.570573139
+Caubet;Yes;parviflora;6;Caubet_parviflora6;19;3;3;8.1;3.7;8.6;3;6;1;1;872;1032;0.84496124
+Caubet;Yes;parviflora;7;Caubet_parviflora7;19.5;3;2.22;6.73;3.73;9.12;3;6;1;1;848;1035;0.819323671
+Caubet;Yes;parviflora;8;Caubet_parviflora8;14;2;2.89;6.06;3.19;9.39;2;4;1;1;627;1191;0.526448363
+Caubet;Yes;parviflora;9;Caubet_parviflora9;12;2;2.6;9;2.9;8.6;2;4;1;1;911;1069;0.852198316
+Caubet;Yes;parviflora;10;Caubet_parviflora10;15.3;3;2.62;7.28;3.1;7.37;3;6;1;1;837;1075;0.778604651
+Caubet;Yes;parviflora;11;Caubet_parviflora11;17.5;4;2.4;6.2;3.3;8.5;4;8;1;1;514;1188;0.432659933
+Caubet;Yes;parviflora;12;Caubet_parviflora12;24.5;4;3.6;8.3;2.7;9.7;4;8;1;1;993;1187;0.836562763
+Caubet;Yes;parviflora;13;Caubet_parviflora13;14.5;3;2.18;8.5;3.95;8.53;3;6;1;1;804;1098;0.732240437
+Caubet;Yes;parviflora;14;Caubet_parviflora14;15;3;2.63;9.74;3.8;8.59;3;6;1;1;733;1090;0.672477064
+Caubet;Yes;parviflora;15;Caubet_parviflora15;23.5;4;3.02;9.52;3.85;9.23;4;8;1;1;767;1076;0.712825279
+Caubet;Yes;parviflora;16;Caubet_parviflora16;8.8;3;2.63;6.81;4.09;7.43;3;6;1;1;;;
+Caubet;Yes;parviflora;17;Caubet_parviflora17;7;2;3.4;5.2;2.2;6.7;0;;0;0;;;
+Caubet;Yes;parviflora;18;Caubet_parviflora18;11;3;2.42;7.78;4.21;7.62;3;6;1;1;;;
+Caubet;Yes;parviflora;19;Caubet_parviflora19;19.5;4;2.06;9.47;3.86;7.83;4;6;1;0.75;;;
+Caubet;Yes;parviflora;20;Caubet_parviflora20;19;3;3.6;6.6;3.6;10;1;2;0.333333333;0.333333333;;;
+Caubet;Yes;parviflora;21;Caubet_parviflora21;21.5;4;2.6;7.2;3.2;10.4;4;8;1;1;714;1037;0.68852459
+Caubet;Yes;parviflora;22;Caubet_parviflora22;23;2;3.8;7.6;3.8;9.7;2;4;1;1;772;1070;0.721495327
+Caubet;Yes;parviflora;23;Caubet_parviflora23;25.5;4;3.6;7.4;3.9;10.3;4;8;1;1;;;
+Caubet;Yes;parviflora;24;Caubet_parviflora24;21.5;4;3.3;8.2;3.5;9.2;4;8;1;1;695;1017;0.683382498
+Caubet;Yes;parviflora;25;Caubet_parviflora25;13;3;3.3;6.3;2.6;9.1;2;6;0.666666667;1;;;
+Caubet;Yes;parviflora;26;Caubet_parviflora26;14.5;2;3.8;6.5;3.8;8.1;2;4;1;1;;;
+Caubet;Yes;parviflora;27;Caubet_parviflora27;13.5;2;2.6;5.6;3.1;8.8;2;4;1;1;522;1020;0.511764706
+Caubet;Yes;parviflora;28;Caubet_parviflora28;22;4;2.91;9.06;3.6;9.61;4;8;1;1;;;
+Caubet;Yes;parviflora;29;Caubet_parviflora29;22;3;3.04;8.5;3.79;9.13;3;4;1;0.666666667;;;
+Caubet;Yes;parviflora;30;Caubet_parviflora30;30.5;4;3.87;10.22;3.92;9.11;3;8;0.75;1;;;
+Caubet;Yes;parviflora;10_1;Caubet_parviflora10_1;;;;;;;;;;;820;1100;0.745454545
+Caubet;Yes;parviflora;13_1;Caubet_parviflora13_1;;;;;;;;;;;373;1162;0.320998279
+Caubet;Yes;parviflora;14_1;Caubet_parviflora14_1;;;;;;;;;;;651;1373;0.47414421
+Caubet;Yes;parviflora;6_1;Caubet_parviflora6_1;;;;;;;;;;;592;1087;0.544618215
+Caubet;Yes;parviflora;8_1;Caubet_parviflora8_1;;;;;;;;;;;67;1000;0.067
+Burguesa;No;lingua;1;Burguesa_lingua1;7;2;4.8;12.2;5.9;11.7;0;4;0;1;;;
+Burguesa;No;lingua;2;Burguesa_lingua2;11.5;2;4.7;11.1;6.4;11.5;;;;;;;
+Burguesa;No;lingua;3;Burguesa_lingua3;10;1;4.1;11.9;5.2;11.5;;;;;;;
+Burguesa;No;lingua;4;Burguesa_lingua4;9;2;4.9;12.3;5.3;11;;;;;;;
+Burguesa;No;lingua;5;Burguesa_lingua5;10;1;3.4;9.8;5.9;12.2;;;;;;;
+Burguesa;No;lingua;6;Burguesa_lingua6;11.5;2;3.9;11.5;7.2;13.3;0;4;0;1;;;
+Burguesa;No;lingua;7;Burguesa_lingua7;7.5;2;4.6;9.9;7.4;11;0;4;0;1;;;
+Burguesa;No;lingua;8;Burguesa_lingua8;10;1;3.5;9.2;6.3;9.2;0;2;0;1;;;
+Burguesa;No;lingua;9;Burguesa_lingua9;8;1;4.2;10.3;6;10.3;;;;;;;
+Burguesa;No;lingua;10;Burguesa_lingua10;11;2;5.1;13.1;7.4;12.3;;;;;;;
+Burguesa;No;lingua;11;Burguesa_lingua11;8;2;4.5;10.3;7;11.2;0;4;0;1;;;
+Burguesa;No;lingua;12;Burguesa_lingua12;9;1;3.9;10.3;6.2;12.3;;;;;;;
+Burguesa;No;lingua;13;Burguesa_lingua13;6;1;3.9;12.3;6.6;10.7;0;2;0;1;;;
+Burguesa;No;lingua;14;Burguesa_lingua14;7.5;1;4.2;11.3;7;11.4;;;;;;;
+Burguesa;No;lingua;15;Burguesa_lingua15;7;1;4.2;11.9;6.7;11.1;0;2;0;1;;;
+Burguesa;No;lingua;16;Burguesa_lingua16;11.5;1;3.8;9.9;6.8;11.3;0;2;0;1;;;
+Burguesa;No;lingua;17;Burguesa_lingua17;7.5;1;3.8;9;6.9;10.5;0;2;0;1;;;
+Burguesa;No;lingua;18;Burguesa_lingua18;6;1;4.5;10.8;6.4;10.2;0;2;0;1;;;
+Burguesa;No;lingua;19;Burguesa_lingua19;9;1;4.5;11;5.9;10.2;;;;;;;
+Burguesa;No;lingua;20;Burguesa_lingua20;7;2;4.8;9.7;7.3;11.7;0;4;0;1;;;
+Burguesa;No;lingua;21;Burguesa_lingua21;6.5;2;3.9;9.9;6.1;10.9;0;4;0;1;;;
+Burguesa;No;lingua;22;Burguesa_lingua22;6;1;3.6;9.8;5.4;6.1;0;2;0;1;;;
+Burguesa;No;lingua;23;Burguesa_lingua23;7.5;2;4.4;10.6;7.6;10.3;;;;;;;
+Burguesa;No;lingua;24;Burguesa_lingua24;8.5;2;4.6;9.4;9.1;10.7;0;4;0;1;;;
+Burguesa;No;lingua;25;Burguesa_lingua25;8;2;5.5;8.4;6.5;12.1;0;4;0;1;;;
+Burguesa;No;lingua;26;Burguesa_lingua26;9;2;6.3;10.9;7.2;10;0;4;0;1;;;
+Burguesa;No;lingua;27;Burguesa_lingua27;14.5;2;4.4;12.1;8.9;11;;;;;;;
+Burguesa;No;lingua;28;Burguesa_lingua28;6.5;2;5;12.6;8.3;9.4;0;4;0;1;;;
+Burguesa;No;lingua;29;Burguesa_lingua29;4.5;1;4.8;9;7.7;9.1;0;2;0;1;;;
+Burguesa;No;lingua;30;Burguesa_lingua30;5.5;1;4.9;10.6;6.9;9.1;0;2;0;1;;;
+Bellver2;No;lingua;1;Bellver2_lingua1;19.5;2;5;10;5;11;0;4;0;1;;;
+Bellver2;No;lingua;2;Bellver2_lingua2;17.5;2;6;14;8;12;0;4;0;1;;;
+Bellver2;No;lingua;3;Bellver2_lingua3;15.5;3;4;11;6;13;0;6;0;1;;;
+Bellver2;No;lingua;4;Bellver2_lingua4;17;2;5;11;5;11;0;4;0;1;;;
+Bellver2;No;lingua;5;Bellver2_lingua5;17;2;12;13;9;11;0;4;0;1;;;
+Bellver2;No;lingua;6;Bellver2_lingua6;13;2;4;6;4;13;0;4;0;1;;;
+Bellver2;No;lingua;7;Bellver2_lingua7;21.5;3;5;10;4;11;0;6;0;1;;;
+Bellver2;No;lingua;8;Bellver2_lingua8;18;2;6;13;6;11;0;4;0;1;;;
+Bellver2;No;lingua;9;Bellver2_lingua9;17;2;6;9;4;10;0;4;0;1;;;
+Bellver2;No;lingua;10;Bellver2_lingua10;16;2;5;10;6;9;0;4;0;1;;;
+Bellver2;No;lingua;11;Bellver2_lingua11;17;2;6;8;4;9;0;4;0;1;;;
+Bellver2;No;lingua;12;Bellver2_lingua12;22;2;6;13;9;11;0;4;0;1;;;
+Bellver2;No;lingua;13;Bellver2_lingua13;24.5;2;4;12;6;10;0;4;0;1;;;
+Bellver2;No;lingua;15;Bellver2_lingua15;17.5;2;6;10;6;9;0;4;0;1;;;
+Bellver2;No;lingua;16;Bellver2_lingua16;19.5;3;5;8;4;8;0;6;0;1;;;
+Bellver2;No;lingua;17;Bellver2_lingua17;20.5;2;5;11;5;9;0;4;0;1;;;
+Bellver2;No;lingua;18;Bellver2_lingua18;19;2;5;9;4;8;0;4;0;1;;;
+Bellver2;No;lingua;19;Bellver2_lingua19;21.5;2;5;7;4;7;0;4;0;1;;;
+Bellver2;No;lingua;20;Bellver2_lingua20;20.5;2;6;12;8;10;0;2;0;0.5;;;
+Bellver2;No;lingua;21;Bellver2_lingua21;17;2;5;11;6;10;0;4;0;1;;;
+Bellver2;No;lingua;22;Bellver2_lingua22;17;1;7;8;4;11;0;2;0;1;;;
+Bellver2;No;lingua;23;Bellver2_lingua23;13;1;6;11;5;9;0;2;0;1;;;
+Bellver2;No;lingua;24;Bellver2_lingua24;16;2;5;11;6;10;;;;;;;
+Bellver2;No;lingua;25;Bellver2_lingua25;22;4;4;11;6;8;0;4;0;0.5;;;
+Bellver2;No;lingua;26;Bellver2_lingua26;;2;6;16;8;11;0;;0;0;;;
+Bellver2;No;lingua;27;Bellver2_lingua27;;2;4;9;4;10;0;4;0;1;;;
+Bellver2;No;lingua;28;Bellver2_lingua28;20;4;6;11;6;10;0;8;0;1;;;
+Bellver2;No;lingua;29;Bellver2_lingua29;20;2;6;12;6;8;;;;;;;
+Bellver2;No;lingua;30;Bellver2_lingua30;16;2;6;9;4;7;1;2;0.5;0.5;700;1200;0.583333333
+Bellver;No;lingua;1;Bellver_lingua1;13;2;5;12.6;7.3;13.4;0;4;0;1;;;
+Bellver;No;lingua;2;Bellver_lingua2;13.6;2;4.7;13;7.8;14.3;0;4;0;1;;;
+Bellver;No;lingua;3;Bellver_lingua3;11.4;2;4.7;12.7;8;12.7;0;4;0;1;;;
+Bellver;No;lingua;4;Bellver_lingua4;18.1;2;4.8;12.6;7.6;11.4;0;4;0;1;;;
+Bellver;No;lingua;5;Bellver_lingua5;16.8;3;4.5;13.1;8.6;12.4;;;;;;;
+Bellver;No;lingua;6;Bellver_lingua6;14.7;2;5;11.5;6.7;11.5;;;;;;;
+Bellver;No;lingua;7;Bellver_lingua7;10.4;2;4;10.7;7;11.3;0;4;0;1;;;
+Bellver;No;lingua;8;Bellver_lingua8;8.1;2;3.9;14.4;6.3;11.1;0;4;0;1;;;
+Bellver;No;lingua;9;Bellver_lingua9;20.5;3;4.2;12.9;7.5;12.1;0;6;0;1;;;
+Bellver;No;lingua;10;Bellver_lingua10;23.1;3;4.5;12.4;6.8;12;0;6;0;1;;;
+Bellver;No;lingua;11;Bellver_lingua11;20.7;3;4.3;12.6;7.5;11.6;0;5;0;0.833333333;;;
+Bellver;No;lingua;12;Bellver_lingua12;17.4;2;4.1;11.1;7.2;13.3;0;4;0;1;;;
+Bellver;No;lingua;13;Bellver_lingua13;15.6;2;4.4;12.2;6.3;11.9;0;4;0;1;;;
+Bellver;No;lingua;14;Bellver_lingua14;11.6;2;3.1;12.3;5.6;10.8;0;4;0;1;;;
+Bellver;No;lingua;15;Bellver_lingua15;5.4;2;3.4;10.4;5.7;10;0;4;0;1;;;
+Bellver;No;lingua;16;Bellver_lingua16;13;2;3.4;16.1;6;13;0;4;0;1;;;
+Bellver;No;lingua;17;Bellver_lingua17;14;2;4.3;11.3;7.5;11.8;;;;;;;
+Bellver;No;lingua;18;Bellver_lingua18;15.6;2;4.6;11.3;7.7;11;0;4;0;1;;;
+Bellver;No;lingua;19;Bellver_lingua19;10.6;2;3.6;11.5;6.5;11.2;0;4;0;1;;;
+Bellver;No;lingua;20;Bellver_lingua20;8.9;2;3.9;13.6;6.4;11.7;;;;;;;
+Bellver;No;lingua;21;Bellver_lingua21;8.1;2;4;12.1;5.4;10.7;0;4;0;1;;;
+Bellver;No;lingua;22;Bellver_lingua22;11.6;2;3.7;13.4;5.5;11.2;0;4;0;1;;;
+Bellver;No;lingua;23;Bellver_lingua23;13.1;2;4.3;10.2;7.7;11.5;0;4;0;1;;;
+Bellver;No;lingua;24;Bellver_lingua24;23.4;2;6.3;13.8;8.1;14.7;0;4;0;1;;;
+Bellver;No;lingua;25;Bellver_lingua25;12.4;2;4.6;14.2;6.1;11.1;0;2;0;0.5;;;
+Bellver;No;lingua;26;Bellver_lingua26;12.8;2;4.3;12;5;12.1;0;4;0;1;;;
+Bellver;No;lingua;27;Bellver_lingua27;13;2;4.6;10.4;4.7;12.4;;;;;;;
+Bellver;No;lingua;28;Bellver_lingua28;10.9;2;3;11;6.1;9.3;0;4;0;1;;;
+Bellver;No;lingua;29;Bellver_lingua29;12.9;3;4;12.9;6.3;10.4;0;4;0;0.666666667;;;
+Bellver;No;lingua;30;Bellver_lingua30;16;3;4.1;12.1;6.8;11.8;0;6;0;1;;;
+Bellver;No;lingua;31;Bellver_lingua31;13.6;2;3.7;9.1;2.7;9.1;0;4;0;1;;;
+Bellver;No;lingua;32;Bellver_lingua32;9.4;2;4;10.4;3.1;9.2;0;4;0;1;;;
+Bellver;No;lingua;33;Bellver_lingua33;14.7;2;4.5;11.5;5.1;8.9;0;4;0;1;;;
+Bellver;No;lingua;34;Bellver_lingua34;20.2;3;2.8;11.1;3.1;9.7;0;6;0;1;;;
+Bellver;No;lingua;35;Bellver_lingua35;18.4;3;4.2;13.2;4;10.7;0;6;0;1;;;
+Bellver;No;lingua;36;Bellver_lingua36;17.5;3;4.4;12.2;5;11.7;0;6;0;1;;;
+Bellver;No;lingua;37;Bellver_lingua37;22.5;3;5.1;4.5;4.2;10.9;0;6;0;1;;;
+Bellver;No;lingua;38;Bellver_lingua38;11.5;3;3.6;9.9;4.5;8.9;0;6;0;1;;;
+Bellver;No;lingua;39;Bellver_lingua39;19.3;3;4.8;15.5;5.2;12.1;0;6;0;1;;;
+Bellver;No;lingua;40;Bellver_lingua40;19;4;5.9;13.1;5;12.1;0;7;0;0.875;;;
+Bellver;No;lingua;41;Bellver_lingua41;15.5;3;4.1;12.1;5;10.6;0;6;0;1;;;
+Bellver;No;lingua;42;Bellver_lingua42;20.5;3;4.5;12;4.9;10.6;0;6;0;1;;;
+Bellver;No;lingua;43;Bellver_lingua43;12.6;3;4.5;12.9;4.1;11.1;0;6;0;1;;;
+Bellver;No;lingua;44;Bellver_lingua44;19.4;3;4.4;13.4;4.6;11.5;0;6;0;1;;;
+Bellver;No;lingua;45;Bellver_lingua45;14.4;3;5;13.9;5.7;13.4;0;6;0;1;;;
+Bellver;No;lingua;46;Bellver_lingua46;15.6;2;5;13.1;6.9;12.8;0;4;0;1;;;
+Bellver;No;lingua;47;Bellver_lingua47;13.1;2;3.9;11;5.6;12.2;0;3;0;0.75;;;
+Bellver;No;lingua;48;Bellver_lingua48;18.4;3;3.9;14.2;4;13.2;0;6;0;1;;;
+Bellver;No;lingua;49;Bellver_lingua49;15.1;3;5.3;13.4;6.8;13.9;0;6;0;1;;;
+Bellver;No;lingua;50;Bellver_lingua50;15.1;2;4;11.7;6.6;13.2;0;4;0;1;;;
+Bellver;No;lingua;51;Bellver_lingua51;15.5;2;4.8;13.1;6.7;13.7;0;4;0;1;;;
+Bellver;No;lingua;52;Bellver_lingua52;15.3;2;5.3;11.8;6.4;13.8;0;4;0;1;;;
+Bellver;No;lingua;53;Bellver_lingua53;18;3;4.8;12.2;5.7;13.7;0;6;0;1;;;
+Bellver;No;lingua;54;Bellver_lingua54;15;2;5.5;10.6;6.9;14.8;0;4;0;1;;;
+Bellver;No;lingua;55;Bellver_lingua55;12.3;2;4.1;11;6.4;11.8;0;4;0;1;;;
+Bellver;No;lingua;56;Bellver_lingua56;11.9;2;4.5;11.3;5.4;11.8;0;4;0;1;;;
+Bellver;No;lingua;57;Bellver_lingua57;16.7;2;4.2;12.5;6.8;13.7;0;4;0;1;;;
+Bellver;No;lingua;58;Bellver_lingua58;15.6;4;5.4;12.4;5.5;13.2;0;8;0;1;;;
+Bellver;No;lingua;59;Bellver_lingua59;12.6;2;4.9;8.9;6.3;12.2;;;;;;;
+Bellver;No;lingua;60;Bellver_lingua60;18.8;2;5.2;13.6;5.1;13;1;4;0.5;1;;;
+Algaida;No;lingua;1;Algaida_lingua1;19.2;2;5.6;15.7;8.1;12.5;0;4;0;1;;;
+Algaida;No;lingua;2;Algaida_lingua2;14.8;2;6.1;15.6;8.8;15.1;0;4;0;1;;;
+Algaida;No;lingua;3;Algaida_lingua3;26.2;3;4.3;11.7;7.3;13.04;0;6;0;1;;;
+Algaida;No;lingua;4;Algaida_lingua4;21.6;3;5.2;12.8;7.3;12.3;0;6;0;1;;;
+Algaida;No;lingua;5;Algaida_lingua5;11;3;4.6;17.7;6.6;14.8;0;6;0;1;;;
+Algaida;No;lingua;6;Algaida_lingua6;16.6;3;5.2;17.4;7.7;14.3;0;6;0;1;;;
+Algaida;No;lingua;7;Algaida_lingua7;18.9;3;6;16.4;8.1;12.3;;;;;;;
+Algaida;No;lingua;8;Algaida_lingua8;26.8;4;4.5;17.7;8.2;15.5;;;;;;;
+Algaida;No;lingua;9;Algaida_lingua9;16.4;2;5;14.9;8.5;11.4;;;;;;;
+Algaida;No;lingua;10;Algaida_lingua10;11.6;2;5.6;14.7;7.7;12.3;0;4;0;1;;;
+Algaida;No;lingua;11;Algaida_lingua11;12.1;2;5.6;14.7;8.3;10.1;0;4;0;1;;;
+Algaida;No;lingua;12;Algaida_lingua12;12.2;2;4.8;13.8;6.5;12.6;;;;;;;
+Algaida;No;lingua;13;Algaida_lingua13;17.2;3;5.2;20;6.5;13.7;;;;;;;
+Algaida;No;lingua;14;Algaida_lingua14;13.3;2;4.6;15;6.8;12.3;;;;;;;
+Algaida;No;lingua;15;Algaida_lingua15;14.2;2;5.7;12.7;7.5;12.1;;;;;;;
+Algaida;No;lingua;16;Algaida_lingua16;13.9;2;4.6;14.9;7.4;13.2;;;;;;;
+Algaida;No;lingua;17;Algaida_lingua17;10.5;2;5.2;14.2;7.7;10.6;0;4;0;1;;;
+Algaida;No;lingua;18;Algaida_lingua18;10.5;2;4.1;11.9;7;11.8;;;;;;;
+Algaida;No;lingua;19;Algaida_lingua19;12.9;2;5;16.6;8.9;14.6;;;;;;;
+Algaida;No;lingua;20;Algaida_lingua20;17;2;5.1;14.3;7.1;11.6;;;;;;;
+Algaida;No;lingua;21;Algaida_lingua21;20.1;2;5.2;16;6.4;14.5;;;;;;;
+Algaida;No;lingua;22;Algaida_lingua22;22;4;4.5;18.9;9.3;11.1;0;8;0;1;;;
+Algaida;No;lingua;23;Algaida_lingua23;10.5;2;4.4;15.6;6;12;1;4;0.5;1;208;1100;0.189090909
+Algaida;No;lingua;24;Algaida_lingua24;14;2;4.3;15.2;7.6;12.3;0;4;0;1;;;
+Algaida;No;lingua;25;Algaida_lingua25;15.9;2;4.8;14.3;7.5;12.3;;;;;;;
+Algaida;No;lingua;26;Algaida_lingua26;15.6;3;5;15.1;9.2;12.7;0;6;0;1;;;
+Algaida;No;lingua;27;Algaida_lingua27;20.2;3;5;16.8;8.3;11.5;;;;;;;
+Algaida;No;lingua;28;Algaida_lingua28;22;3;5.1;14.7;7.4;13.4;;;;;;;
+Algaida;No;lingua;29;Algaida_lingua29;28.4;3;5.4;13.9;6.8;13.7;;;;;;;
+Algaida;No;lingua;30;Algaida_lingua30;32;5;5.3;10.2;4.8;13.1;0;10;0;1;;;
+Algaida;No;lingua;31;Algaida_lingua31;13.4;3;4.16;12.85;4.16;14.17;0;6;0;1;;;
+Algaida;No;lingua;32;Algaida_lingua32;12.4;2;6.32;13.1;6.18;14.67;0;4;0;1;;;
+Algaida;No;lingua;33;Algaida_lingua33;13.9;2;7.1;12.81;6.4;12.2;0;4;0;1;;;
+Algaida;No;lingua;34;Algaida_lingua34;15.7;2;4.41;9.49;5.85;10.03;0;4;0;1;;;
+Algaida;No;lingua;35;Algaida_lingua35;12.9;3;4.17;10.08;4.52;10.53;0;2;0;0.333333333;;;
+Algaida;No;lingua;36;Algaida_lingua36;10;3;3.72;11.63;4.71;10.28;0;6;0;1;;;
+Algaida;No;lingua;37;Algaida_lingua37;9.8;2;3.26;12.3;4.89;10.22;0;4;0;1;;;
+Algaida;No;lingua;38;Algaida_lingua38;9.2;2;2.69;8.69;3.23;7.87;0;4;0;1;;;
+Algaida;No;lingua;39;Algaida_lingua39;12;2;4.76;14.55;7.88;13.04;0;4;0;1;;;
+Algaida;No;lingua;40;Algaida_lingua40;8.9;2;5.35;11.68;5.83;10.9;0;4;0;1;;;
+Algaida;No;lingua;41;Algaida_lingua41;11.6;2;3.86;11.66;7.94;11.12;0;4;0;1;;;
+Algaida;No;lingua;42;Algaida_lingua42;11.4;2;4.56;12.59;7.57;10.81;0;2;0;0.5;;;
+Algaida;No;lingua;43;Algaida_lingua43;9.3;2;3.91;13.28;7.76;12.56;0;4;0;1;;;
+Algaida;No;lingua;44;Algaida_lingua44;9.2;2;2.83;12.8;4.5;10.3;0;4;0;1;;;
+Algaida;No;lingua;45;Algaida_lingua45;11.3;2;4.52;19.52;7.05;12.21;0;4;0;1;;;
+Algaida;No;lingua;46;Algaida_lingua46;19.9;3;4.15;11.79;7.51;12.78;;;;;;;
+Algaida;No;lingua;47;Algaida_lingua47;13.4;3;3.53;10.79;3.69;11.83;;;;;;;
+Algaida;No;lingua;48;Algaida_lingua48;15;3;4.41;9.94;5.45;9.56;;;;;;;
+Algaida;No;lingua;49;Algaida_lingua49;11.6;2;4.61;13.28;6.61;12.69;;;;;;;
+Algaida;No;lingua;50;Algaida_lingua50;12;2;4.17;12.8;7;11.51;;;;;;;
+Algaida;No;lingua;51;Algaida_lingua51;13.4;3;4.19;15.73;8.93;14.33;;;;;;;
+Algaida;No;lingua;52;Algaida_lingua52;13;2;3.69;12.78;7.21;11.21;;;;;;;
+Algaida;No;lingua;53;Algaida_lingua53;12.8;2;3.88;11.34;6.32;12.54;;;;;;;
+Algaida;No;lingua;54;Algaida_lingua54;21;2;4.96;11.13;7.14;12.81;;;;;;;
+Algaida;No;lingua;55;Algaida_lingua55;19.5;2;9.8;12.25;7.09;13.03;;;;;;;
+Algaida;No;lingua;56;Algaida_lingua56;16.5;2;4.15;13.58;7.09;12.54;;;;;;;
+Algaida;No;lingua;57;Algaida_lingua57;18.8;2;4.64;11.77;8.9;12.42;;;;;;;
+Algaida;No;lingua;58;Algaida_lingua58;17;2;3.9;10.15;5.03;9.72;;;;;;;
+Algaida;No;lingua;59;Algaida_lingua59;21;3;3.99;10.4;6.68;9.55;;;;;;;
+Algaida;No;lingua;60;Algaida_lingua60;14.8;4;4.48;12.75;7.81;10.75;;;;;;;
